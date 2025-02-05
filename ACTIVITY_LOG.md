@@ -5,3 +5,4 @@
 - [2025-02-04] chore: upgrade sentence-transformers version
 - [2025-02-04] fix: handle corrupted PDF files gracefully
 - [2025-02-05] feat: add BM25 sparse retrieval weight tuning
+- [2025-02-05] fix: faithfulness guard false negative edge case
