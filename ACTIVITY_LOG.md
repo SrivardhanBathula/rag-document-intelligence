@@ -4,3 +4,4 @@
 - [2025-02-03] feat: add streaming SSE response support
 - [2025-02-04] chore: upgrade sentence-transformers version
 - [2025-02-04] fix: handle corrupted PDF files gracefully
+- [2025-02-05] feat: add BM25 sparse retrieval weight tuning
