@@ -8,3 +8,4 @@
 - [2025-02-05] fix: faithfulness guard false negative edge case
 - [2025-02-06] fix: faithfulness guard false negative edge case
 - [2025-02-07] fix: resolve chunk overlap boundary issue
+- [2025-02-07] refactor: optimize cross-encoder reranking speed
