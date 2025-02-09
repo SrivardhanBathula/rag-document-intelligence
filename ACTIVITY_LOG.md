@@ -4,3 +4,4 @@
 - [2025-02-03] chore: update FAISS index configuration
 - [2025-02-08] fix: resolve chunk overlap boundary issue
 - [2025-02-08] refactor: modularize document loader pipeline
+- [2025-02-09] fix: handle corrupted PDF files gracefully
