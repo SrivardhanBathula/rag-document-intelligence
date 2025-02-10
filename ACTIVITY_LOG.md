@@ -10,3 +10,4 @@
 - [2025-02-07] fix: resolve chunk overlap boundary issue
 - [2025-02-07] refactor: optimize cross-encoder reranking speed
 - [2025-02-08] refactor: optimize cross-encoder reranking speed
+- [2025-02-10] fix: correct cosine similarity normalization
