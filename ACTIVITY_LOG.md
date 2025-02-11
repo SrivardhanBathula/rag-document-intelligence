@@ -6,3 +6,4 @@
 - [2025-02-08] refactor: modularize document loader pipeline
 - [2025-02-09] fix: handle corrupted PDF files gracefully
 - [2025-02-11] chore: upgrade sentence-transformers version
+- [2025-02-11] refactor: improve PDF text extraction accuracy
