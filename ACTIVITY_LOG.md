@@ -7,3 +7,4 @@
 - [2025-02-09] fix: handle corrupted PDF files gracefully
 - [2025-02-11] chore: upgrade sentence-transformers version
 - [2025-02-11] refactor: improve PDF text extraction accuracy
+- [2025-02-13] test: add RAGAS evaluation benchmark tests
