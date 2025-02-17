@@ -12,3 +12,4 @@
 - [2025-02-08] refactor: optimize cross-encoder reranking speed
 - [2025-02-10] fix: correct cosine similarity normalization
 - [2025-02-16] refactor: optimize cross-encoder reranking speed
+- [2025-02-17] test: add unit tests for hybrid retriever
