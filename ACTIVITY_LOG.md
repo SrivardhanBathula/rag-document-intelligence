@@ -14,3 +14,4 @@
 - [2025-02-16] refactor: optimize cross-encoder reranking speed
 - [2025-02-17] test: add unit tests for hybrid retriever
 - [2025-02-17] fix: resolve chunk overlap boundary issue
+- [2025-02-18] feat: add BM25 sparse retrieval weight tuning
