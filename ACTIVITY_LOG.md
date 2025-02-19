@@ -16,3 +16,4 @@
 - [2025-02-17] fix: resolve chunk overlap boundary issue
 - [2025-02-18] feat: add BM25 sparse retrieval weight tuning
 - [2025-02-18] fix: handle corrupted PDF files gracefully
+- [2025-02-19] refactor: improve semantic chunker sentence splitting
