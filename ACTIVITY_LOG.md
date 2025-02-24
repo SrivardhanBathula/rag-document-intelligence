@@ -10,3 +10,4 @@
 - [2025-02-13] test: add RAGAS evaluation benchmark tests
 - [2025-02-19] fix: faithfulness guard false negative edge case
 - [2025-02-21] test: add unit tests for hybrid retriever
+- [2025-02-24] feat: add streaming SSE response support
