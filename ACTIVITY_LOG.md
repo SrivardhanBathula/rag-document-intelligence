@@ -12,3 +12,4 @@
 - [2025-02-21] test: add unit tests for hybrid retriever
 - [2025-02-24] feat: add streaming SSE response support
 - [2025-02-25] feat: add streaming SSE response support
+- [2025-02-25] refactor: improve PDF text extraction accuracy
