@@ -18,3 +18,4 @@
 - [2025-02-18] fix: handle corrupted PDF files gracefully
 - [2025-02-19] refactor: improve semantic chunker sentence splitting
 - [2025-02-25] refactor: improve semantic chunker sentence splitting
+- [2025-02-26] refactor: improve PDF text extraction accuracy
