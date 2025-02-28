@@ -14,3 +14,4 @@
 - [2025-02-25] feat: add streaming SSE response support
 - [2025-02-25] refactor: improve PDF text extraction accuracy
 - [2025-02-27] refactor: improve semantic chunker sentence splitting
+- [2025-02-28] fix: correct cosine similarity normalization
