@@ -19,3 +19,4 @@
 - [2025-02-19] refactor: improve semantic chunker sentence splitting
 - [2025-02-25] refactor: improve semantic chunker sentence splitting
 - [2025-02-26] refactor: improve PDF text extraction accuracy
+- [2025-02-28] test: add unit tests for hybrid retriever
