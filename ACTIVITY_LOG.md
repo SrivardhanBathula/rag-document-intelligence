@@ -15,3 +15,4 @@
 - [2025-02-25] refactor: improve PDF text extraction accuracy
 - [2025-02-27] refactor: improve semantic chunker sentence splitting
 - [2025-02-28] fix: correct cosine similarity normalization
+- [2025-03-01] fix: faithfulness guard false negative edge case
