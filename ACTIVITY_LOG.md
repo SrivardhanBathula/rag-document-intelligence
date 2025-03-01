@@ -16,3 +16,4 @@
 - [2025-02-27] refactor: improve semantic chunker sentence splitting
 - [2025-02-28] fix: correct cosine similarity normalization
 - [2025-03-01] fix: faithfulness guard false negative edge case
+- [2025-03-01] fix: FAISS index persistence bug fix
