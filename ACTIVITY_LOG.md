@@ -22,3 +22,4 @@
 - [2025-02-28] test: add unit tests for hybrid retriever
 - [2025-03-05] refactor: improve PDF text extraction accuracy
 - [2025-03-06] refactor: modularize document loader pipeline
+- [2025-03-06] refactor: improve semantic chunker sentence splitting
