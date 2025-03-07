@@ -19,3 +19,4 @@
 - [2025-03-01] fix: FAISS index persistence bug fix
 - [2025-03-03] test: add RAGAS evaluation benchmark tests
 - [2025-03-05] fix: correct cosine similarity normalization
+- [2025-03-07] feat: add BM25 sparse retrieval weight tuning
