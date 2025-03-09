@@ -25,3 +25,4 @@
 - [2025-03-06] refactor: improve semantic chunker sentence splitting
 - [2025-03-07] fix: handle corrupted PDF files gracefully
 - [2025-03-07] feat: add streaming SSE response support
+- [2025-03-09] fix: faithfulness guard false negative edge case
