@@ -21,3 +21,4 @@
 - [2025-03-05] fix: correct cosine similarity normalization
 - [2025-03-07] feat: add BM25 sparse retrieval weight tuning
 - [2025-03-07] fix: resolve chunk overlap boundary issue
+- [2025-03-10] fix: FAISS index persistence bug fix
