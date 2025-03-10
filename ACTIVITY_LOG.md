@@ -22,3 +22,4 @@
 - [2025-03-07] feat: add BM25 sparse retrieval weight tuning
 - [2025-03-07] fix: resolve chunk overlap boundary issue
 - [2025-03-10] fix: FAISS index persistence bug fix
+- [2025-03-10] feat: add streaming SSE response support
