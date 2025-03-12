@@ -27,3 +27,4 @@
 - [2025-03-07] feat: add streaming SSE response support
 - [2025-03-09] fix: faithfulness guard false negative edge case
 - [2025-03-10] chore: upgrade sentence-transformers version
+- [2025-03-12] feat: add BM25 sparse retrieval weight tuning
