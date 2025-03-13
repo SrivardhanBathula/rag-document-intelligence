@@ -24,3 +24,4 @@
 - [2025-03-10] fix: FAISS index persistence bug fix
 - [2025-03-10] feat: add streaming SSE response support
 - [2025-03-12] feat: add streaming SSE response support
+- [2025-03-13] feat: add BM25 sparse retrieval weight tuning
