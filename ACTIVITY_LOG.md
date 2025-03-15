@@ -29,3 +29,4 @@
 - [2025-03-10] chore: upgrade sentence-transformers version
 - [2025-03-12] feat: add BM25 sparse retrieval weight tuning
 - [2025-03-15] fix: faithfulness guard false negative edge case
+- [2025-03-15] refactor: optimize cross-encoder reranking speed
