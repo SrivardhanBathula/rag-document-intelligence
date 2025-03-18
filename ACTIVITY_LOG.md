@@ -31,3 +31,4 @@
 - [2025-03-15] fix: faithfulness guard false negative edge case
 - [2025-03-15] refactor: optimize cross-encoder reranking speed
 - [2025-03-17] fix: correct cosine similarity normalization
+- [2025-03-18] refactor: improve semantic chunker sentence splitting
