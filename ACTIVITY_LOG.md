@@ -27,3 +27,4 @@
 - [2025-03-13] feat: add BM25 sparse retrieval weight tuning
 - [2025-03-13] refactor: modularize document loader pipeline
 - [2025-03-14] docs: add retrieval benchmark results to README
+- [2025-03-18] fix: handle corrupted PDF files gracefully
