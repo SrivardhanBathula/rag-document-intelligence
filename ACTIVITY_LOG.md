@@ -33,3 +33,4 @@
 - [2025-03-17] fix: correct cosine similarity normalization
 - [2025-03-18] refactor: improve semantic chunker sentence splitting
 - [2025-03-19] test: add RAGAS evaluation benchmark tests
+- [2025-03-19] refactor: improve semantic chunker sentence splitting
