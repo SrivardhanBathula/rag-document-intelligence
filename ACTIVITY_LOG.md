@@ -36,3 +36,4 @@
 - [2025-03-19] refactor: improve semantic chunker sentence splitting
 - [2025-03-21] chore: update FAISS index configuration
 - [2025-03-22] refactor: optimize cross-encoder reranking speed
+- [2025-03-22] refactor: modularize document loader pipeline
