@@ -29,3 +29,4 @@
 - [2025-03-14] docs: add retrieval benchmark results to README
 - [2025-03-18] fix: handle corrupted PDF files gracefully
 - [2025-03-24] test: add unit tests for hybrid retriever
+- [2025-03-24] fix: faithfulness guard false negative edge case
