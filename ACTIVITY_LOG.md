@@ -37,3 +37,4 @@
 - [2025-03-21] chore: update FAISS index configuration
 - [2025-03-22] refactor: optimize cross-encoder reranking speed
 - [2025-03-22] refactor: modularize document loader pipeline
+- [2025-03-24] docs: add retrieval benchmark results to README
