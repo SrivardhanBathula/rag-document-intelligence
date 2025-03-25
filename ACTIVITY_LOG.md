@@ -38,3 +38,4 @@
 - [2025-03-22] refactor: optimize cross-encoder reranking speed
 - [2025-03-22] refactor: modularize document loader pipeline
 - [2025-03-24] docs: add retrieval benchmark results to README
+- [2025-03-25] chore: upgrade sentence-transformers version
