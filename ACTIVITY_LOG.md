@@ -30,3 +30,4 @@
 - [2025-03-18] fix: handle corrupted PDF files gracefully
 - [2025-03-24] test: add unit tests for hybrid retriever
 - [2025-03-24] fix: faithfulness guard false negative edge case
+- [2025-03-25] fix: FAISS index persistence bug fix
