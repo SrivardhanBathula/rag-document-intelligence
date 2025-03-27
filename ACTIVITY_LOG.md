@@ -40,3 +40,4 @@
 - [2025-03-24] docs: add retrieval benchmark results to README
 - [2025-03-25] chore: upgrade sentence-transformers version
 - [2025-03-26] docs: add retrieval benchmark results to README
+- [2025-03-27] refactor: optimize cross-encoder reranking speed
