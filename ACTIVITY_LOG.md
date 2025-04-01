@@ -32,3 +32,4 @@
 - [2025-03-24] fix: faithfulness guard false negative edge case
 - [2025-03-25] fix: FAISS index persistence bug fix
 - [2025-03-28] feat: add streaming SSE response support
+- [2025-04-01] feat: add streaming SSE response support
