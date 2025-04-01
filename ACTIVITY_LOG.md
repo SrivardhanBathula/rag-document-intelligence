@@ -44,3 +44,4 @@
 - [2025-03-31] docs: add retrieval benchmark results to README
 - [2025-03-31] chore: upgrade sentence-transformers version
 - [2025-04-01] docs: add retrieval benchmark results to README
+- [2025-04-01] fix: handle corrupted PDF files gracefully
