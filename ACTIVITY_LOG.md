@@ -34,3 +34,4 @@
 - [2025-03-28] feat: add streaming SSE response support
 - [2025-04-01] feat: add streaming SSE response support
 - [2025-04-02] feat: add BM25 sparse retrieval weight tuning
+- [2025-04-02] feat: add streaming SSE response support
