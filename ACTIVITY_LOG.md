@@ -46,3 +46,4 @@
 - [2025-04-01] docs: add retrieval benchmark results to README
 - [2025-04-01] fix: handle corrupted PDF files gracefully
 - [2025-04-03] feat: add streaming SSE response support
+- [2025-04-04] feat: add BM25 sparse retrieval weight tuning
