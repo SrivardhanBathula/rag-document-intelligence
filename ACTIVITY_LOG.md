@@ -49,3 +49,4 @@
 - [2025-04-04] feat: add BM25 sparse retrieval weight tuning
 - [2025-04-10] docs: add retrieval benchmark results to README
 - [2025-04-10] fix: resolve chunk overlap boundary issue
+- [2025-04-11] fix: handle corrupted PDF files gracefully
