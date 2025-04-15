@@ -52,3 +52,4 @@
 - [2025-04-11] fix: handle corrupted PDF files gracefully
 - [2025-04-14] refactor: optimize cross-encoder reranking speed
 - [2025-04-14] feat: add streaming SSE response support
+- [2025-04-15] refactor: improve PDF text extraction accuracy
