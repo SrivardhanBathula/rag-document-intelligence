@@ -38,3 +38,4 @@
 - [2025-04-03] fix: resolve chunk overlap boundary issue
 - [2025-04-07] fix: resolve chunk overlap boundary issue
 - [2025-04-14] fix: resolve chunk overlap boundary issue
+- [2025-04-17] feat: add streaming SSE response support
