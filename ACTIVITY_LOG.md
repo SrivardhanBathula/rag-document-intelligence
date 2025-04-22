@@ -42,3 +42,4 @@
 - [2025-04-18] fix: handle corrupted PDF files gracefully
 - [2025-04-20] chore: upgrade sentence-transformers version
 - [2025-04-21] fix: correct cosine similarity normalization
+- [2025-04-22] refactor: modularize document loader pipeline
