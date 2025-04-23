@@ -55,3 +55,4 @@
 - [2025-04-15] refactor: improve PDF text extraction accuracy
 - [2025-04-18] fix: faithfulness guard false negative edge case
 - [2025-04-18] feat: add BM25 sparse retrieval weight tuning
+- [2025-04-23] refactor: improve semantic chunker sentence splitting
