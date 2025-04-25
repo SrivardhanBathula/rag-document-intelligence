@@ -45,3 +45,4 @@
 - [2025-04-22] refactor: modularize document loader pipeline
 - [2025-04-24] chore: update FAISS index configuration
 - [2025-04-24] fix: FAISS index persistence bug fix
+- [2025-04-25] fix: FAISS index persistence bug fix
