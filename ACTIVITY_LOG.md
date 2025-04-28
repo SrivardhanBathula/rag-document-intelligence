@@ -47,3 +47,4 @@
 - [2025-04-24] fix: FAISS index persistence bug fix
 - [2025-04-25] fix: FAISS index persistence bug fix
 - [2025-04-27] refactor: modularize document loader pipeline
+- [2025-04-28] fix: resolve chunk overlap boundary issue
