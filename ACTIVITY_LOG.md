@@ -58,3 +58,4 @@
 - [2025-04-23] refactor: improve semantic chunker sentence splitting
 - [2025-04-24] fix: correct cosine similarity normalization
 - [2025-04-25] feat: add streaming SSE response support
+- [2025-04-30] fix: resolve chunk overlap boundary issue
