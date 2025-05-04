@@ -50,3 +50,4 @@
 - [2025-04-28] fix: resolve chunk overlap boundary issue
 - [2025-04-29] docs: update quickstart guide
 - [2025-05-02] fix: correct cosine similarity normalization
+- [2025-05-04] test: add unit tests for hybrid retriever
