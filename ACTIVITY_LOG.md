@@ -61,3 +61,4 @@
 - [2025-04-30] fix: resolve chunk overlap boundary issue
 - [2025-05-02] chore: update FAISS index configuration
 - [2025-05-02] chore: upgrade sentence-transformers version
+- [2025-05-05] fix: faithfulness guard false negative edge case
