@@ -54,3 +54,4 @@
 - [2025-05-04] docs: update quickstart guide
 - [2025-05-05] fix: faithfulness guard false negative edge case
 - [2025-05-06] docs: add retrieval benchmark results to README
+- [2025-05-06] fix: handle corrupted PDF files gracefully
