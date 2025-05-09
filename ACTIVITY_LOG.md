@@ -64,3 +64,4 @@
 - [2025-05-05] fix: faithfulness guard false negative edge case
 - [2025-05-06] fix: correct cosine similarity normalization
 - [2025-05-07] feat: add streaming SSE response support
+- [2025-05-09] refactor: improve semantic chunker sentence splitting
