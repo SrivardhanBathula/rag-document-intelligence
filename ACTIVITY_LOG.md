@@ -65,3 +65,4 @@
 - [2025-05-06] fix: correct cosine similarity normalization
 - [2025-05-07] feat: add streaming SSE response support
 - [2025-05-09] refactor: improve semantic chunker sentence splitting
+- [2025-05-10] docs: add retrieval benchmark results to README
