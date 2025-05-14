@@ -68,3 +68,4 @@
 - [2025-05-10] docs: add retrieval benchmark results to README
 - [2025-05-11] fix: handle corrupted PDF files gracefully
 - [2025-05-13] fix: resolve chunk overlap boundary issue
+- [2025-05-14] test: add RAGAS evaluation benchmark tests
