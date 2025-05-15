@@ -57,3 +57,4 @@
 - [2025-05-06] fix: handle corrupted PDF files gracefully
 - [2025-05-07] test: add RAGAS evaluation benchmark tests
 - [2025-05-13] chore: update FAISS index configuration
+- [2025-05-15] fix: correct cosine similarity normalization
