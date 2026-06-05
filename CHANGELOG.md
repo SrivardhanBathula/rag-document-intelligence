@@ -24,3 +24,4 @@
 - [2025-03-26] docs: add retrieval benchmark results to README
 - [2025-03-27] feat: add BM25 sparse retrieval weight tuning
 - [2025-03-29] chore: update FAISS index configuration
+- [2025-04-03] fix: correct cosine similarity normalization
