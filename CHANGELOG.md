@@ -21,3 +21,4 @@
 - [2025-03-18] feat: add BM25 sparse retrieval weight tuning
 - [2025-03-19] fix: correct metadata extraction for multi-page PDFs
 - [2025-03-22] chore: add pre-commit hooks for code quality
+- [2025-03-26] docs: add retrieval benchmark results to README
