@@ -19,3 +19,4 @@
 - [2025-03-10] chore: update FAISS index configuration
 - [2025-03-12] docs: add retrieval benchmark results to README
 - [2025-03-18] feat: add BM25 sparse retrieval weight tuning
+- [2025-03-19] fix: correct metadata extraction for multi-page PDFs
