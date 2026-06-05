@@ -35,3 +35,4 @@
 - [2025-04-25] test: add unit tests for hybrid retriever
 - [2025-04-29] fix: FAISS index persistence bug fix
 - [2025-05-05] chore: upgrade sentence-transformers version
+- [2025-05-13] fix: correct cosine similarity normalization
