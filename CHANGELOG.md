@@ -26,3 +26,4 @@
 - [2025-03-29] chore: update FAISS index configuration
 - [2025-04-03] fix: correct cosine similarity normalization
 - [2025-04-10] test: add unit tests for hybrid retriever
+- [2025-04-15] refactor: optimize cross-encoder reranking speed
