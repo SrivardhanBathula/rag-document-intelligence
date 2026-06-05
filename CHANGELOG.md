@@ -36,3 +36,4 @@
 - [2025-04-29] fix: FAISS index persistence bug fix
 - [2025-05-05] chore: upgrade sentence-transformers version
 - [2025-05-13] fix: correct cosine similarity normalization
+- [2025-05-23] refactor: improve RAG chain prompt template
