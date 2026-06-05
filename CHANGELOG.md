@@ -4,3 +4,4 @@
 - [2025-02-04] refactor: optimize cross-encoder reranking speed
 - [2025-02-06] fix: faithfulness guard false negative edge case
 - [2025-02-07] docs: update quickstart guide
+- [2025-02-11] chore: upgrade sentence-transformers version
