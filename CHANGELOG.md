@@ -32,3 +32,4 @@
 - [2025-04-23] refactor: improve semantic chunker sentence splitting
 - [2025-04-23] refactor: improve RAG chain prompt template
 - [2025-04-24] docs: add retrieval benchmark results to README
+- [2025-04-25] test: add unit tests for hybrid retriever
