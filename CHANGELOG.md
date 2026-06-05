@@ -8,3 +8,4 @@
 - [2025-02-12] chore: update FAISS index configuration
 - [2025-02-20] refactor: improve PDF text extraction accuracy
 - [2025-02-24] docs: update quickstart guide
+- [2025-02-25] chore: upgrade sentence-transformers version
