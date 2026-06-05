@@ -13,3 +13,4 @@
 - [2025-02-26] fix: handle corrupted PDF files gracefully
 - [2025-02-27] refactor: modularize document loader pipeline
 - [2025-03-03] fix: FAISS index persistence bug fix
+- [2025-03-04] chore: upgrade sentence-transformers version
