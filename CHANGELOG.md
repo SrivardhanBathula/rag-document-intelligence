@@ -9,3 +9,4 @@
 - [2025-02-20] refactor: improve PDF text extraction accuracy
 - [2025-02-24] docs: update quickstart guide
 - [2025-02-25] chore: upgrade sentence-transformers version
+- [2025-02-26] fix: faithfulness guard false negative edge case
