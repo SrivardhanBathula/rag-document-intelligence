@@ -15,3 +15,4 @@
 - [2025-03-03] fix: FAISS index persistence bug fix
 - [2025-03-04] chore: upgrade sentence-transformers version
 - [2025-03-05] chore: upgrade sentence-transformers version
+- [2025-03-06] docs: add retrieval benchmark results to README
