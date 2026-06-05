@@ -28,3 +28,4 @@
 - [2025-04-10] test: add unit tests for hybrid retriever
 - [2025-04-15] refactor: optimize cross-encoder reranking speed
 - [2025-04-16] test: add unit tests for hybrid retriever
+- [2025-04-18] refactor: improve PDF text extraction accuracy
